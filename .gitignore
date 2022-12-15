@@ -1,0 +1,4 @@
+.git/
+.idea/
+Analyzer.iml
+target/
